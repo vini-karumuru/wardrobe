@@ -2,3 +2,4 @@ hoodie
 jacket
 blouse
 t-shirt
+corset
